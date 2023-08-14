@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.16.7
 
 ENV PACKAGES "jq gettext curl openssl ca-certificates"
 
